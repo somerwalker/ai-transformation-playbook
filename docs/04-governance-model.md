@@ -1,6 +1,6 @@
-This section defines the governance structure required to oversee AI initiatives, clarify decision authority, and ensure responsible delivery across the organization.
-
 # Governance Model for AI Initiatives
+
+This section defines the governance structure required to oversee AI initiatives, clarify decision authority, and ensure responsible delivery across the organization.
 
 AI initiatives introduce new considerations around risk, ethics, compliance, and operational impact. A governance structure helps ensure that initiatives are evaluated responsibly and delivered effectively.
 
