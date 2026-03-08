@@ -3,16 +3,14 @@ A practical framework for turning AI strategy into structured execution through 
 
 ## AI Transformation Workflow
 
-```mermaid
-flowchart LR
+```mermaid flowchart LR
 A[AI Ideas & Opportunities] --> B[Use Case Intake]
 B --> C[Prioritization Framework]
 C --> D[Governance Review]
 D --> E[Pilot Development]
 E --> F[Operational Deployment]
 F --> G[Value Measurement]
-
-```markdown
+```
 
 This playbook provides structure for organizations implementing AI initiatives.
 
