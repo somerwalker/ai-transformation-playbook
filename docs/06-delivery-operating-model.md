@@ -1,6 +1,6 @@
-This operating model outlines how cross-functional teams coordinate to move AI initiatives from early evaluation through pilot development and operational deployment.
-
 # AI Delivery Operating Model
+
+This operating model outlines how cross-functional teams coordinate to move AI initiatives from early evaluation through pilot development and operational deployment.
 
 Successful AI initiatives require coordination across multiple teams, including engineering, data science, operations, and business leadership.
 

@@ -1,6 +1,6 @@
-This framework provides a structured process for capturing and documenting AI opportunities so they can be evaluated consistently and aligned with business priorities.
-
 # AI Use Case Intake Framework
+
+This framework provides a structured process for capturing and documenting AI opportunities so they can be evaluated consistently and aligned with business priorities.
 
 Organizations often receive AI ideas from many sources: executives, product teams, engineering groups, and operations leaders.
 

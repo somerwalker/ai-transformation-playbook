@@ -25,6 +25,45 @@ The goal is to help organizations move from scattered AI ideas to accountable, v
 
 Rather than treating AI as isolated experiments, the framework introduces an operating model that ensures ideas are evaluated, prioritized, governed, delivered, and measured in a consistent and accountable way.
 
+## Common Reasons AI Initiatives Fail
+
+Many organizations begin exploring artificial intelligence with enthusiasm, but struggle to move beyond experimentation.
+
+Common obstacles include:
+
+- unclear ownership of AI initiatives
+- inconsistent evaluation of opportunities
+- lack of governance for risk and compliance
+- poor coordination between business and technical teams
+- insufficient data readiness
+- unclear success metrics
+- limited operational adoption
+
+These challenges are rarely technical in nature. Most stem from missing organizational structure around how AI initiatives are evaluated, prioritized, governed, and delivered.
+
+The AI Transformation Playbook addresses these gaps by introducing a practical operating model for managing AI initiatives from initial idea through operational deployment.
+
+## Guiding Principles for AI Transformation
+
+Successful AI initiatives require more than technical capability. They depend on disciplined execution, clear ownership, and alignment between business and technology teams.
+
+The following principles guide the framework presented in this playbook.
+
+### 1. Start with Business Problems, Not Technology
+AI initiatives should begin with clearly defined business challenges rather than curiosity about new tools. The most successful implementations address measurable operational or customer problems.
+
+### 2. Evaluate Opportunities Consistently
+Organizations often generate many potential AI ideas. A structured intake and prioritization process helps leaders evaluate opportunities objectively and focus resources on initiatives with the greatest impact.
+
+### 3. Establish Clear Ownership and Governance
+AI initiatives involve multiple teams, including engineering, data science, operations, and leadership. Clear governance ensures decisions are transparent and accountability is maintained.
+
+### 4. Deliver Iteratively and Learn from Early Pilots
+Early pilots provide valuable insights into technical feasibility, operational readiness, and user adoption. Successful programs treat pilots as learning opportunities before scaling solutions.
+
+### 5. Measure Outcomes and Continuously Improve
+AI initiatives should be evaluated based on measurable improvements to business outcomes. Continuous monitoring and feedback allow organizations to refine solutions and expand successful initiatives.
+
 ## AI Program Operating Model
 
 ```mermaid
@@ -123,3 +162,7 @@ Enterprise Program Leader | Operational Excellence | AI Transformation
 Background leading complex cloud, infrastructure, and AI initiatives across global organizations. Focused on turning strategy into disciplined execution.
 
 LinkedIn: https://www.linkedin.com/in/somerwalker
+
+## Contributing
+
+This repository represents an evolving framework for operationalizing AI initiatives. Suggestions and improvements are welcome.
