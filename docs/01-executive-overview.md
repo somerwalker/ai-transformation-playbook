@@ -1,15 +1,23 @@
 # Executive Overview
 
-Many organizations are eager to adopt AI but struggle to operationalize it.
+Organizations across industries are exploring how artificial intelligence can improve decision-making, automate repetitive work, and unlock new sources of value. However, many AI initiatives stall after early experimentation.
 
-Ideas are abundant. Execution structure is not.
+The challenge is rarely a lack of ideas. More often, organizations struggle with:
 
-The AI Transformation Playbook provides a practical operating model for organizations seeking to move from experimentation to disciplined execution. It focuses on five critical elements:
+- unclear ownership of AI initiatives
+- inconsistent prioritization of opportunities
+- lack of governance around risk and compliance
+- difficulty coordinating cross-functional delivery
+- unclear measurement of outcomes
 
-- Clear intake of AI opportunities
-- Prioritization based on business value and readiness
-- Governance and decision structure
-- Delivery operating models
-- Measurement of outcomes and adoption
+The AI Transformation Playbook introduces a structured operating model that helps organizations move from scattered experimentation to disciplined implementation.
 
-This repository provides practical templates and frameworks that organizations can use to bring structure, clarity, and accountability to AI initiatives.
+This playbook focuses on five key capabilities:
+
+1. **Structured intake of AI opportunities**
+2. **Prioritization based on business value and readiness**
+3. **Governance and decision-making structures**
+4. **Operational coordination of delivery**
+5. **Measurement of business outcomes**
+
+Together, these capabilities enable organizations to evaluate opportunities consistently, manage risks responsibly, and scale AI initiatives that produce real value.
