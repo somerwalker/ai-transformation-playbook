@@ -1,5 +1,10 @@
-# ai-transformation-playbook
-A practical framework for turning AI strategy into structured execution through governance, prioritization, and operational delivery models.
+# AI Transformation Playbook
+
+A practical framework for turning AI ambition into structured execution.
+
+Many organizations are exploring AI opportunities, but struggle to operationalize them. Ideas are abundant, yet initiatives often stall due to unclear ownership, inconsistent prioritization, and lack of governance around delivery.
+
+The AI Transformation Playbook introduces a practical operating model that helps organizations move from experimentation to disciplined execution. It focuses on intake, prioritization, governance, delivery coordination, and measurement of business outcomes.
 
 ## AI Transformation Workflow
 
@@ -12,7 +17,11 @@ D --> E[Pilot Development]
 E --> F[Operational Deployment]
 F --> G[Value Measurement]
 ```
-This playbook provides structure for organizations implementing AI initiatives.
+The workflow above represents a structured lifecycle for AI initiatives.
+
+Rather than treating AI projects as isolated experiments, the playbook introduces an operating model that ensures opportunities are evaluated consistently, prioritized against business goals, governed appropriately, and delivered through a disciplined operational process.
+
+The goal is to help organizations move from scattered AI ideas to accountable, value-driven implementation.
 
 Rather than treating AI as isolated experiments, the framework introduces an operating model that ensures ideas are evaluated, prioritized, governed, delivered, and measured in a consistent and accountable way.
 
@@ -20,10 +29,24 @@ Rather than treating AI as isolated experiments, the framework introduces an ope
 
 This framework is designed for:
 
-• Organizations beginning AI transformation  
-• Program managers responsible for AI initiatives  
-• Operations leaders coordinating cross-team delivery  
-• Executives seeking governance and accountability in AI investments  
+- Organizations beginning AI transformation
+- Program managers responsible for AI initiatives
+- Operations leaders coordinating cross-team delivery
+- Executives seeking governance and accountability in AI investments
+
+## How to Use This Playbook
+
+Organizations can use this repository as a starting point for structuring AI initiatives.
+
+Typical use cases include:
+
+• Establishing a structured intake process for AI opportunities  
+• Creating a prioritization model for selecting initiatives  
+• Defining governance roles and decision authority  
+• Coordinating cross-team delivery of AI initiatives  
+• Measuring outcomes and business value
+
+The documentation and templates are designed to be adapted to different organizational contexts.
 
 ## Repository Contents
 
