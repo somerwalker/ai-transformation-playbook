@@ -27,36 +27,29 @@ Rather than treating AI as isolated experiments, the framework introduces an ope
 
 ## AI Program Operating Model
 
+## AI Program Operating Model
+
 ```mermaid
 flowchart TB
-Executive[Executive Leadership]
+    Executive[Executive Leadership]
+    Steering[AI Steering Committee]
+    Program[AI Program Lead]
+    Intake[Use Case Intake]
+    Prioritization[Prioritization Framework]
+    Delivery[Delivery Teams: Data Science, Engineering, Product]
+    Risk[Risk and Compliance]
+    Operations[Operational Owners]
+    Metrics[Value Measurement]
 
-Steering[AI Steering Committee]
-
-Program[AI Program Lead]
-
-Intake[Use Case Intake]
-
-Prioritization[Prioritization Framework]
-
-Delivery[Delivery Teams
-Data Science | Engineering | Product]
-
-Risk[Risk & Compliance]
-
-Operations[Operational Owners]
-
-Metrics[Value Measurement]
-
-Executive --> Steering
-Steering --> Program
-Program --> Intake
-Program --> Prioritization
-Program --> Delivery
-Program --> Risk
-Delivery --> Operations
-Operations --> Metrics
-Metrics --> Steering
+    Executive --> Steering
+    Steering --> Program
+    Program --> Intake
+    Program --> Prioritization
+    Program --> Delivery
+    Program --> Risk
+    Delivery --> Operations
+    Operations --> Metrics
+    Metrics --> Steering
 ```
 
 ## Who This Playbook Is For
