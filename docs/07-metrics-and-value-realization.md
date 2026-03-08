@@ -1,6 +1,6 @@
-This section describes how organizations can measure the outcomes of AI initiatives and track whether implementations are delivering meaningful business value.
-
 # Measuring AI Value and Outcomes
+
+This section describes how organizations can measure the outcomes of AI initiatives and track whether implementations are delivering meaningful business value.
 
 AI initiatives should ultimately deliver measurable improvements in business performance. Defining success metrics early helps organizations track progress and demonstrate value.
 
