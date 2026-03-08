@@ -1,6 +1,6 @@
-This example roadmap illustrates how organizations can launch an AI transformation initiative over the first ninety days while establishing governance, prioritization, and delivery structure.
-
 # Example 90-Day AI Transformation Plan
+
+This example roadmap illustrates how organizations can launch an AI transformation initiative over the first ninety days while establishing governance, prioritization, and delivery structure.
 
 Organizations beginning an AI transformation often benefit from a structured launch plan.
 
