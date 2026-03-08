@@ -1,3 +1,5 @@
+This overview introduces the common challenges organizations face when implementing AI initiatives and outlines the operating model used throughout this playbook.
+
 # Executive Overview
 
 Organizations across industries are exploring how artificial intelligence can improve decision-making, automate repetitive work, and unlock new sources of value. However, many AI initiatives stall after early experimentation.
