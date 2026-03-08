@@ -1,16 +1,34 @@
 # AI Use Case Intake Framework
 
-Before organizations invest in AI initiatives, they must clearly define the problem they are trying to solve.
+Organizations often receive AI ideas from many sources: executives, product teams, engineering groups, and operations leaders.
 
-A structured intake process ensures ideas are evaluated consistently and aligned with business priorities.
+Without a structured intake process, ideas may be evaluated inconsistently or move forward without clear alignment to business goals.
 
-Key intake questions include:
+A formal intake framework ensures that every opportunity is documented and evaluated consistently.
 
-- What business problem are we solving?
-- Who is the primary user or customer impacted?
-- What measurable improvement is expected?
-- What data sources are required?
-- Are there legal, compliance, or security considerations?
-- Who is the executive sponsor?
+## Key Intake Information
 
-Capturing these elements early helps organizations prioritize effectively and avoid investing in ideas that lack clear value or readiness.
+Each AI opportunity should capture the following information:
+
+- **Use case title**
+- **Business problem being addressed**
+- **Business owner or sponsor**
+- **Primary users or stakeholders**
+- **Expected business impact**
+- **Required data sources**
+- **Estimated implementation complexity**
+- **Operational readiness**
+- **Compliance or regulatory considerations**
+- **Success metrics**
+
+## Benefits of Structured Intake
+
+A consistent intake process helps organizations:
+
+- evaluate opportunities objectively
+- avoid duplicate initiatives
+- align AI work with strategic priorities
+- identify risks early in the lifecycle
+- improve transparency in decision making
+
+Structured intake is the first step toward disciplined AI execution.
