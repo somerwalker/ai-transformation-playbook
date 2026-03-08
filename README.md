@@ -27,8 +27,6 @@ Rather than treating AI as isolated experiments, the framework introduces an ope
 
 ## AI Program Operating Model
 
-## AI Program Operating Model
-
 ```mermaid
 flowchart TB
     Executive[Executive Leadership]
@@ -36,7 +34,7 @@ flowchart TB
     Program[AI Program Lead]
     Intake[Use Case Intake]
     Prioritization[Prioritization Framework]
-    Delivery[Delivery Teams: Data Science, Engineering, Product]
+    Delivery[Delivery Teams]
     Risk[Risk and Compliance]
     Operations[Operational Owners]
     Metrics[Value Measurement]
@@ -51,6 +49,9 @@ flowchart TB
     Operations --> Metrics
     Metrics --> Steering
 ```
+AI transformation requires coordination across leadership, governance bodies, delivery teams, and operational stakeholders.
+
+The operating model above illustrates how executive oversight, program coordination, technical delivery, and value measurement work together to support accountable AI implementation.
 
 ## Who This Playbook Is For
 
