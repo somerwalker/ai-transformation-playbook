@@ -29,7 +29,6 @@ Rather than treating AI as isolated experiments, the framework introduces an ope
 
 ```mermaid
 flowchart TB
-
 Executive[Executive Leadership]
 
 Steering[AI Steering Committee]
