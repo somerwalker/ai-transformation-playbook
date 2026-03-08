@@ -1,6 +1,6 @@
-This framework helps organizations evaluate AI initiatives and select projects that offer the highest value and best chance of successful implementation.
-
 # AI Initiative Prioritization Framework
+
+This framework helps organizations evaluate AI initiatives and select projects that offer the highest value and best chance of successful implementation.
 
 Organizations typically generate more AI ideas than they can realistically pursue. A structured prioritization framework helps leaders select initiatives that offer the highest value and the best chance of success.
 
