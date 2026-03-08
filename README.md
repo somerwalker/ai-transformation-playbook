@@ -162,3 +162,7 @@ Enterprise Program Leader | Operational Excellence | AI Transformation
 Background leading complex cloud, infrastructure, and AI initiatives across global organizations. Focused on turning strategy into disciplined execution.
 
 LinkedIn: https://www.linkedin.com/in/somerwalker
+
+## Contributing
+
+This repository represents an evolving framework for operationalizing AI initiatives. Suggestions and improvements are welcome.
