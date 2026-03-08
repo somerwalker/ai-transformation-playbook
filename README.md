@@ -25,6 +25,41 @@ The goal is to help organizations move from scattered AI ideas to accountable, v
 
 Rather than treating AI as isolated experiments, the framework introduces an operating model that ensures ideas are evaluated, prioritized, governed, delivered, and measured in a consistent and accountable way.
 
+## AI Program Operating Model
+
+```mermaid
+flowchart TB
+
+Executive[Executive Leadership]
+
+Steering[AI Steering Committee]
+
+Program[AI Program Lead]
+
+Intake[Use Case Intake]
+
+Prioritization[Prioritization Framework]
+
+Delivery[Delivery Teams
+Data Science | Engineering | Product]
+
+Risk[Risk & Compliance]
+
+Operations[Operational Owners]
+
+Metrics[Value Measurement]
+
+Executive --> Steering
+Steering --> Program
+Program --> Intake
+Program --> Prioritization
+Program --> Delivery
+Program --> Risk
+Delivery --> Operations
+Operations --> Metrics
+Metrics --> Steering
+```
+
 ## Who This Playbook Is For
 
 This framework is designed for:
