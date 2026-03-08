@@ -1,16 +1,36 @@
 # AI Initiative Prioritization Framework
 
-Organizations often generate more AI ideas than they can realistically pursue.
+Organizations typically generate more AI ideas than they can realistically pursue. A structured prioritization framework helps leaders select initiatives that offer the highest value and the best chance of success.
 
-A structured prioritization framework helps leaders evaluate opportunities based on business value, readiness, and implementation complexity.
+## Evaluation Dimensions
 
-Key evaluation dimensions may include:
+AI opportunities can be evaluated across several dimensions:
 
-- Business impact
-- Data readiness
-- Implementation complexity
-- Organizational readiness
-- Compliance and risk considerations
-- Strategic alignment
+### Business Impact
+Estimated improvement in revenue, cost efficiency, productivity, or customer experience.
 
-Each initiative can be scored across these dimensions to determine whether it should be pursued immediately, prepared for future development, or monitored for later consideration.
+### Data Readiness
+Availability, quality, and accessibility of the data required to support the initiative.
+
+### Implementation Complexity
+Technical difficulty, integration requirements, and development effort.
+
+### Organizational Readiness
+Availability of process owners, operational support, and change management.
+
+### Compliance and Risk
+Legal, privacy, and regulatory considerations associated with the initiative.
+
+### Strategic Alignment
+Alignment with organizational priorities and long-term strategy.
+
+## Prioritization Categories
+
+After evaluation, initiatives can be categorized as:
+
+- **Pursue Immediately**
+- **Prepare for Future Implementation**
+- **Monitor and Reevaluate**
+- **Do Not Pursue**
+
+A clear prioritization process ensures resources are focused on initiatives that deliver meaningful business value.
