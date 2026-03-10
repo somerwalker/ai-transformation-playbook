@@ -23,3 +23,13 @@ This playbook focuses on five key capabilities:
 5. **Measurement of business outcomes**
 
 Together, these capabilities enable organizations to evaluate opportunities consistently, manage risks responsibly, and scale AI initiatives that produce real value.
+
+---
+
+Part of the Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+Copyright © 2026 Somer Walker
+
+This material is provided for educational and professional reference.  
+Commercial use or derivative consulting frameworks requires permission from the author.
