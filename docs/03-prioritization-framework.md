@@ -36,3 +36,13 @@ After evaluation, initiatives can be categorized as:
 - **Do Not Pursue**
 
 A clear prioritization process ensures resources are focused on initiatives that deliver meaningful business value.
+
+---
+
+Part of the Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+Copyright © 2026 Somer Walker
+
+This material is provided for educational and professional reference.  
+Commercial use or derivative consulting frameworks requires permission from the author.
