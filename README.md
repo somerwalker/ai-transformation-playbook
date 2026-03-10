@@ -11,7 +11,16 @@ https://github.com/somerwalker/transformation-operating-framework
 
 ## About AI Transformation Playbook
 
-A practical framework for turning AI ambition into structured execution.
+The AI Transformation Playbook represents the **Transformation layer**
+within the Transformation Operating Framework. It focuses on
+operationalizing AI initiatives so they can move from experimentation
+to governed, measurable execution.
+
+Within the broader framework:
+
+Strategy → Governance → Transformation → Execution → Delivery
+
+It is practical framework for turning AI ambition into structured execution.
 
 Many organizations are exploring AI opportunities, but struggle to operationalize them. Ideas are abundant, yet initiatives often stall due to unclear ownership, inconsistent prioritization, and lack of governance around delivery.
 
@@ -33,8 +42,6 @@ The workflow above represents a structured lifecycle for AI initiatives.
 Rather than treating AI projects as isolated experiments, the playbook introduces an operating model that ensures opportunities are evaluated consistently, prioritized against business goals, governed appropriately, and delivered through a disciplined operational process.
 
 The goal is to help organizations move from scattered AI ideas to accountable, value-driven implementation.
-
-Rather than treating AI as isolated experiments, the framework introduces an operating model that ensures ideas are evaluated, prioritized, governed, delivered, and measured in a consistent and accountable way.
 
 ## Common Reasons AI Initiatives Fail
 
@@ -165,15 +172,39 @@ This repository contains practical frameworks and templates for organizations im
 
 This repository is intended to be a practical starting point for organizations seeking to operationalize AI initiatives through disciplined governance, prioritization, and delivery practices.
 
+---
+
+## Framework Context
+
+This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
+
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+---
+
 ## Author
 
 Somer Walker  
 Enterprise Program Leader | Operational Excellence | AI Transformation
 
-Background leading complex cloud, infrastructure, and AI initiatives across global organizations. Focused on turning strategy into disciplined execution.
+Background leading complex cloud, infrastructure, and AI initiatives across global organizations focused on turning strategy into disciplined execution.
 
-LinkedIn: https://www.linkedin.com/in/somerwalker
+LinkedIn  
+https://www.linkedin.com/in/somerwalker
+
+---
 
 ## Contributing
 
-This repository represents an evolving framework for operationalizing AI initiatives. Suggestions and improvements are welcome.
+Suggestions, improvements, and additional examples are welcome.  
+Please review `CONTRIBUTING.md` before submitting a pull request.
+
+---
+
+## Copyright
+
+Copyright © 2026 Somer Walker
+
+This repository documents components of the **Transformation Operating Framework**.  
+Use of the framework methodology in commercial consulting or derivative consulting frameworks requires written permission from the author.
