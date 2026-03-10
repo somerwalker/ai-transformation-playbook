@@ -38,6 +38,16 @@ High value and strong readiness.
 **Prepare for Future Implementation**  
 Promising initiatives that require additional data or preparation.
 
+---
+
+Part of the Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+Copyright © 2026 Somer Walker
+
+This material is provided for educational and professional reference.  
+Commercial use or derivative consulting frameworks requires permission from the author.
+
 **Monitor**  
 Ideas worth revisiting later as organizational readiness improves.
 
