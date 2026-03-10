@@ -1,35 +1,46 @@
 # Contributing
 
-Thank you for your interest in contributing to the AI Transformation Playbook.
+Thank you for your interest in contributing to this repository.
 
-This repository is intended to provide practical frameworks and templates that help organizations operationalize AI initiatives through structured governance, prioritization, and delivery practices.
+This project is part of the **Transformation Operating Framework**, a collection of frameworks and documentation focused on aligning strategy, governance, transformation initiatives, and execution across complex organizations.
 
-## Ways to Contribute
+Master framework repository:  
+https://github.com/somerwalker/transformation-operating-framework
 
-Contributions are welcome in several forms:
-
-- suggestions for improving frameworks or templates
-- additional examples of AI program governance artifacts
-- clarifications or improvements to documentation
-- corrections or formatting improvements
+---
 
 ## Contribution Guidelines
 
-When proposing changes, please aim to keep contributions:
+Contributions that improve the clarity and usefulness of the documentation are welcome.
 
-- practical and applicable to real-world organizations
-- clear and concise
-- aligned with responsible AI practices
-- focused on operational execution rather than technical model design
+Examples include:
 
-## Submitting Changes
+- documentation improvements
+- diagram improvements
+- additional examples or explanations
+- corrections or clarifications
+- formatting or readability improvements
 
-1. Fork the repository.
-2. Create a new branch for your proposed changes.
-3. Submit a pull request describing the improvement.
+Contributions should focus on improving documentation rather than modifying the core framework structure.
 
-## Discussion
+---
 
-If you have suggestions or ideas that would improve the playbook, feel free to open an issue to start a discussion.
+## Intellectual Property
 
-The goal of this repository is to provide a practical resource for organizations working to move AI initiatives from experimentation to disciplined execution.
+By submitting a contribution to this repository, you agree that your contribution may be incorporated into the project documentation.
+
+All core methodology, frameworks, and associated intellectual property remain the property of the project author.
+
+Submission of a contribution does not grant rights to reproduce, commercialize, or redistribute the methodology outside the scope of this repository without written permission from the author.
+
+---
+
+## How to Contribute
+
+1. Fork the repository  
+2. Create a branch for your change  
+3. Submit a pull request with a clear explanation of the update  
+
+---
+
+Thank you for helping improve the clarity and usefulness of the Transformation Operating Framework.
