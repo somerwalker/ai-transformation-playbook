@@ -31,3 +31,13 @@ Organizations are more likely to succeed when they have:
 - governance mechanisms for risk management
 
 Assessing readiness early helps organizations prioritize initiatives that are most likely to succeed.
+
+---
+
+Part of the Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+Copyright © 2026 Somer Walker
+
+This material is provided for educational and professional reference.  
+Commercial use or derivative consulting frameworks requires permission from the author.

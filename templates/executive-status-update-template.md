@@ -105,3 +105,13 @@ Examples:
 ## Summary
 
 Provide a concise summary of the program’s overall direction, key progress, and any support needed from leadership.
+
+---
+
+Part of the Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+Copyright © 2026 Somer Walker
+
+This material is provided for educational and professional reference.  
+Commercial use or derivative consulting frameworks requires permission from the author.
