@@ -1,5 +1,16 @@
 # AI Transformation Playbook
 
+## Part of the Transformation Operating Framework
+
+This repository is a supporting component of the **Transformation Operating Framework**, a layered model for aligning strategy, governance, transformation initiatives, and execution across complex organizations.
+
+The master framework repository provides the conceptual architecture connecting the various supporting modules.
+
+Transformation Operating Framework  
+https://github.com/somerwalker/transformation-operating-framework
+
+## About AI Transformation Playbook
+
 A practical framework for turning AI ambition into structured execution.
 
 Many organizations are exploring AI opportunities, but struggle to operationalize them. Ideas are abundant, yet initiatives often stall due to unclear ownership, inconsistent prioritization, and lack of governance around delivery.

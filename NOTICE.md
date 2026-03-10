@@ -1,7 +1,9 @@
-Enterprise Operating Model Framework
+Transformation Operating Framework Component
 
 Copyright © 2026 Somer Walker
 
-This repository provides conceptual frameworks and documentation for educational and informational purposes.
+This repository contains documentation and supporting materials related to the Transformation Operating Framework.
 
-Commercial use of the methodology or derivative consulting frameworks requires permission from the author.
+The materials are shared for educational and professional reference.
+
+Commercial use of the methodology or derivative consulting frameworks requires written permission from the author.
